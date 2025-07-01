@@ -1,0 +1,14 @@
+{
+  "citations": [
+    {
+      "id": "Jones 2018",
+      "context": "This finding is consistent with our results. Contrary to the findings of Jones 2018, we observed Y. This method was based on [1]",
+      "sentiment": "Disagreement"
+    },
+    {
+      "id": "[1]",
+      "context": "Contrary to the findings of Jones 2018, we observed Y. This method was based on [1].",
+      "sentiment": "Disagreement"
+    }
+  ]
+}
